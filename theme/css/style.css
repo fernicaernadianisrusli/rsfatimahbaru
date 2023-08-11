@@ -57,6 +57,7 @@ body {
 a {
   text-decoration: none;
   cursor: pointer;
+
 }
 a:hover, a:focus, a:visited {
   text-decoration: none;
@@ -79,7 +80,7 @@ p {
 .section-title h3 {
   font-size: 40px;
   line-height: 50px;
-  color: #222222;
+  color: #392472;
   font-weight: 700;
   font-family: "Source Sans Pro", sans-serif;
 }
@@ -408,7 +409,7 @@ li {
     transform: translateX(-50%);
     border-radius: 0;
     border: 0;
-    background-color: #392472;;
+    background-color: #fff;
     z-index: 1;
     opacity: 0;
     visibility: hidden;
